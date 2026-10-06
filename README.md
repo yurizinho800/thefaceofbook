@@ -6,5 +6,9 @@ quer entrar no Facebook de outra forma ?? tente esse sscript
 módulos necessários
 
 pandas
-selenium 
+
+selenium
+
 ChromeDriver
+
+https://youtu.be/sUIePQGq78M
